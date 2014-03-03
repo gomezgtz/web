@@ -20,3 +20,17 @@ class tester {
        }
  }
 }
+
+/*
+JDBC
+http://theopentutorials.com/tutorials/java/jdbc/jdbc-mysql-connection-tutorial/
+
+JSP
+https://www.cise.ufl.edu/~bn0/jsp_eclipse_tutorial/
+http://docs.oracle.com/cd/E13224_01/wlw/docs103/guide/webapplications/workshopJSP/tutorialJSP/TutorialJSPMakeJSP.html
+
+JAVA MAIL
+
+http://www.oracle.com/technetwork/java/javamail/index.html
+
+*/
